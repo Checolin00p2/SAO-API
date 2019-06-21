@@ -1,10 +1,10 @@
 # SAO-API
 
-# Informacion base
+# Information base
 this project you will view all season of SAO
 
-# Lenguajes usados
-Desarrollado con:
+# Programming languages ​​used
+Developed with:
 * HTML5
 * CSS3
 * JS
