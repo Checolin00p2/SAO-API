@@ -1,0 +1,49 @@
+{
+    "1": 
+    [       
+            {
+                "id": 1,
+                "chapter": "1",
+                "name": "El mundo de las espadas",
+                "season": "1",
+                "video": "https://www121.playercdn.net/86/3/vhrOpo9DkjZYJNk-12Cm_A/1561087571/190620/922G48BAEFOC27EGYZYSV.mp4"
+            },
+            {
+                "id": 2,
+                "chapter": "2",
+                "name": "Beater",
+                "season": "1",
+                "video": "https://www383.playercdn.net/86/0/C04vKhIzDhZ9PPyjxvYzag/1561091314/171005/132FK75C2GW60596BAW4Q.mp4"
+            },
+            {
+                "id": 3,
+                "chapter": "3",
+                "name": "El reno de la nariz roja",
+                "season": "1",
+                "video": "https://www536.playercdn.net/86/1/S4gpEOSwDozjgSyh9mGh0Q/1561091574/171005/120FK74U39KJYGAYUIOU5.mp4"
+            },
+            {
+                "id": 4,
+                "chapter": "4",
+                "name": "El espadachín negro",
+                "season": "1",
+                "video": "https://www285.playercdn.net/86/1/0Ink1q-GRbKcJJytfhtJxQ/1561091642/171005/129FK7581UYPLCP9UNLLO.mp4"
+            },
+            {
+                "id": 5,
+                "chapter": "5",
+                "name": "Muerte en la zona segura",
+                "season": "1",
+                "video": "https://www325.playercdn.net/86/3/IrbXqarGdkE_IU-ki5V8SQ/1561091710/171005/119FK74SG6LTMTSSQ5ZDP.mp4"
+            }
+    ],
+    "2":[
+            {
+                "id": 1,
+                "chapter": "1",
+                "name": "El mundo de las armas",
+                "season": "2",
+                "video": "https://www325.playercdn.net/86/3/IrbXqarGdkE_IU-ki5V8SQ/1561091710/171005/119FK74SG6LTMTSSQ5ZDP.mp4"
+            }
+        ]
+}

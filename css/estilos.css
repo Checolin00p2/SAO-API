@@ -1,0 +1,30 @@
+@font-face
+{
+   font-family: "SAO";
+   src: url("/Fuentes/SAOUIWelcome-Regular.otf");
+   
+}
+body { 
+    background-image: url('Fondo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: "SAO";
+}
+html{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 32pt;
+}
+input,p {
+    text-align: center;
+    font-family: "SAO";
+    font-size: 14pt;
+}
+
+
+
