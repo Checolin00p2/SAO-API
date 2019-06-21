@@ -1,7 +1,7 @@
 # SAO-API
 
 # Information base
-this project you will view all season of SAO
+This project you will view all season of SAO
 
 # Programming languages ​​used
 Developed with:
