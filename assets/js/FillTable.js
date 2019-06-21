@@ -20,6 +20,3 @@ class Fill{
         });
     }
 }
-
-//<source src="https://www121.playercdn.net/86/3/vhrOpo9DkjZYJNk-12Cm_A/1561087571/190620/922G48BAEFOC27EGYZYSV.mp4" type="video/mp4" label="480p" data-res="480">
-//</video>
