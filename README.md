@@ -9,7 +9,7 @@ Desarrollado con:
 * CSS3
 * JS
 
-#This project was made with the help of  [Ángel Aguilar](https://twitter.com/devangelaguilar) And [Me](https://github.com/Checolin00p2)
+This project was made with the help of  [Ángel Aguilar](https://twitter.com/devangelaguilar) And [Me](https://github.com/Checolin00p2)
 
-#Expected Objectives
+# Expected Objectives
 I hope it will be of help and entertainment for future projects
