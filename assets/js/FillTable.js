@@ -11,11 +11,10 @@ class Fill{
                 <p>Capitulo: ${cap.chapter}</p>
                 <p>Nombre del capitulo: ${cap.name}</p>
                 <p>Temporada: ${cap.season}</p>
-                <p>
-                <video width:100%; height:100%; controls>
-                <source src=${cap.video} type='video/mp4' label='480p' data-res='480'>
-                </video>
-                </p>`;
+                <p1><iframe width='680' height='480' frameborder='0' src='${cap.video}' scrolling='no' allowfullscreen='' ></iframe>
+                
+                </p1>
+                <br><br>`;
         element.innerHTML = html;
         });
     }

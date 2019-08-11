@@ -10,6 +10,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     font-family: "SAO";
+    text-shadow: 2px 2px 4px #000000;
 }
 html{
     margin: 0 auto;
@@ -20,10 +21,21 @@ html{
 h1{
     font-size: 32pt;
 }
+input{
+    
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
 input,p {
     text-align: center;
     font-family: "SAO";
     font-size: 14pt;
+    
+    
+}
+iframe{
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
 }
 
 
