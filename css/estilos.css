@@ -4,6 +4,7 @@
    src: url("/Fuentes/SAOUIWelcome-Regular.otf");
    
 }
+
 body { 
     background-image: url('Fondo.jpg');
     background-repeat: no-repeat;
@@ -23,6 +24,7 @@ h1{
 }
 input{
     
+    
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
 input,p {
@@ -31,12 +33,15 @@ input,p {
     font-size: 14pt;
     
     
+    
 }
+
 iframe{
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
 }
+
 
 
 

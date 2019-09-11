@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>SAO API</title>
+        <link rel="shortcut icon" type="image/png" href="Imagenes/kirito.png" />
+        <link rel="stylesheet" href="css/estilos.css"/>
+      </head>
+      <body>  
+          <style>
+            
+            input{width:20%;}
+            </style>
+
+        <button1 type="button" onclick="location.href='select.html'" class="btn btn-primary">Inicio</button1>
+      <form action="upload.php" method="post" id="quesijale">
+                <h1>Todo Anime</h1>
+                <h2>Panel de Ingreso Anime</h2>
+                <input type="text" name="nanime" placeholder="Nombre del anime" autocomplete="off"  >
+                <br><br>
+                <input type="number" name="tiempo" placeholder="Temporada">
+                <br><br>
+                <input type="number" name="cap" placeholder="Numero de capitulo">
+                <br><br>
+                <input type="text" name="nombre" placeholder="Nombre del capitulo" autocomplete="off" >
+                <br><br>
+                <input type="text" name="link" placeholder="URL servidor de video" autocomplete="off" >
+                <br><br>
+                <input type="password" name="pass" placeholder="Contraseña" autocomplete="off">
+                <br><br>
+                <input type="submit"  value="Cargar"/>
+        </form>
+        
+        
+        
+        
+          
+             <script>
+                // self executing function here
+                (function() {
+            
+                    const forma = document.getElementById("quesijale");
+            
+                    forma.addEventListener("submit", function (event) {
+            
+                        fetch('upload.php')
+                        .then(function(response) {
+                                        
+                            alert("Datos Cargados Exitosamente");
+                        })
+                        .cath(function(error) {
+                            console.log('Hubo un problema con la petición Fetch:' +   error.message);
+                        });
+                    });
+            
+                });
+            
+            </script>
+      </body>
+</html>
