@@ -2,7 +2,7 @@ class Fill{
     constructor(){
         var temp = document.getElementById("chaar");
         var capit = document.getElementById("char");
-        this.url = `http://localhost:3000/${temp.value}/${capit.value}`;
+        this.url = `http://localhost:80/ver.php?tiempo=${temp.value}&cap=${capit.value}`;
     }
     verAlumnos(element){
         let html = '';
